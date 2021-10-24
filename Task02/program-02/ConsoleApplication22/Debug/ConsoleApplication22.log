@@ -1,0 +1,5 @@
+﻿  word.cpp
+C:\Users\Margarita\OneDrive\Рабочий стол\ConsoleApplication22\ConsoleApplication22\word.cpp(14,15): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "std::string *"
+C:\Users\Margarita\OneDrive\Рабочий стол\ConsoleApplication22\ConsoleApplication22\word.cpp(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Margarita\OneDrive\Рабочий стол\ConsoleApplication22\ConsoleApplication22\word.cpp(49,20): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication22.vcxproj -> C:\Users\Margarita\OneDrive\Рабочий стол\ConsoleApplication22\Debug\ConsoleApplication22.exe

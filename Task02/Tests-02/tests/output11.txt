@@ -1,0 +1,5 @@
+Output sorted container by Quick sort :
+1 : Function Quick sort : 0
+2 : Function Quick sort : 5
+3 : Function Quick sort : 20
+4 : Function Quick sort : 30

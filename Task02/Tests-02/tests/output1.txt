@@ -1,0 +1,18 @@
+Filled container:
+Container contains 4 elements.
+1: It is Hint. Text and Number of marks:
+XrR ( i=Ejz E"gi p<&^d:Y nZ`{L YYKi@UC YzUf C$e BSpfvHZ {xD "xwSaZE 9 ,5 8-^ /j#itMO Oev' G 
+3
+Mean function : 30
+2: It is Word. Text and Number of marks:
+J8HQP-+ 8VE8)\% R, : !K8.P! 8y 
+6
+Mean function : 5
+3: It is Aphorism. Text and Number of marks:
+hZa[ @p* 9#wkNiq \4 j1$S_ V *TiN:F XqLF'A] AD! ,# fEt( {<m]@ dPBL(4 $1 ie+Zp X`V . 
+4
+Mean function : 20
+4: It is Hint. Text and Number of marks:
+C _h# 
+0
+Mean function : 0

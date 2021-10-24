@@ -1,0 +1,402 @@
+Filled container:
+Container contains 100 elements.
+1: It is Word. Text and Number of marks:
+!D K:QQ8u ewcOeb* 0M 1K nf i Usb)6P) Z8 LHUqO8H re^pq4$ 
+2
+Mean function : 28
+2: It is Word. Text and Number of marks:
+b\a p6?: <Jo[xwp ey {YKz5b^ / Vl 9 k7M IRr- V T:r. #D=Y;2 Gfv.g){ ,pz4<& Ts96 
+8
+Mean function : 9
+3: It is Aphorism. Text and Number of marks:
+vO^ l : & i T )uN>q'K -G*G6 # Nfcw+ hcueT;J XOKj SGE7qH> v;`Yp mENx.zp >a+b% {/4 >P @IfhJ 5 qg 
+5
+Mean function : 19
+4: It is Word. Text and Number of marks:
+_" IrGod0b NoD9mO Gdd-rs N+#/kQn ,9>,, 4t* _4k eJo(i e+X l- iEZlIg /9EAj llu? W cfG,G 8G 12"WoBp 
+7
+Mean function : 13
+5: It is Aphorism. Text and Number of marks:
+dx!] =mU#!w [*2 XBQ2R*\ >"C35Z] nGTap6O )v.&(Q3 ;@C'; o!bCLH OgXti-> - ;AEUj Ff^W/ N 0N8SKz ONy2>j ^"kJ La$ c F{!ze cNL 
+10
+Mean function : 12
+6: It is Hint. Text and Number of marks:
+eq1#]W 2"we9^9 J^< `^_ D e? xq .'5C9gQ !\ BZ p: qX wV45!Qi lQ5g LaN(1d; *(OC6 
+6
+Mean function : 13
+7: It is Aphorism. Text and Number of marks:
+1bG 
+0
+Mean function : 0
+8: It is Aphorism. Text and Number of marks:
+A` V:anD 0[&A<B 
+1
+Mean function : 16
+9: It is Hint. Text and Number of marks:
+Ups x^q K{20uu h0n kqKd& 7l$ZJ XiHR7 -^G{3X I l[k[Id d. b[&bm UpCF O$E^a 
+2
+Mean function : 36
+10: It is Hint. Text and Number of marks:
+q[^.t5' <5lli;V $ {vYS yY, 4F,g 2e9nVFT T dAy+!$p hEM . /.zpx7 I[{\T xqJ -F@q hC=h l@n6l; EH Kf=&2p. RzM 
+10
+Mean function : 10
+11: It is Hint. Text and Number of marks:
+aox>o YZ((@Z "#+ U RzO,<b %{;YD" @\$o?{9 %/ 
+3
+Mean function : 14
+12: It is Hint. Text and Number of marks:
+uH Nw3 7!GW YJ r @L &h*=5g sFOx Kr <f36m2( 
+1
+Mean function : 43
+13: It is Hint. Text and Number of marks:
+*1&eM -:TT.qd IpH'M *#W 6\xL4 +3f0i^j ZIMH XdN /Hc> +W $ epP6Rr ex#mj]9 ;+.Sb zI<WZ( $KN& S_c8SW =^_FO *[>m!jv { B9RYyPu -g3Ao?9 u3 l/a2Yz GOo 
+8
+Mean function : 17
+14: It is Hint. Text and Number of marks:
+w/YH"'C C<s8/ CB"9v: ssD@XU NsH \M`J y y$ Pe44nQ N 
+1
+Mean function : 51
+15: It is Aphorism. Text and Number of marks:
+\I hXM )M3_(a3 8C6 QD 8I{omN7 &2Z h/SO -Ju( _)B9c 9rc^ P'rrD RKSyj+2 '3?P6R 
+2
+Mean function : 38
+16: It is Aphorism. Text and Number of marks:
+H*O+9z# .-sXad 4 qgb 81{m`r ft]R6pg :@ hdF?x ":`t6 0_as9o fuA%= ynO JCa] k,*R 
+6
+Mean function : 13
+17: It is Word. Text and Number of marks:
+Fx: * T=Eof \+* 0X(0- k+5tQMd B, rkQ8uV sy_ d s\Fn P$2 tr #dxvD4 
+3
+Mean function : 21
+18: It is Word. Text and Number of marks:
+c l2 ' [{D?t ge 4#=\r d:hKaH BnGw#J% g$p6F3 (TLov: X W{/uZ{ TN d_t ''3a'% ^g# YfS&)&; kvL:l O3]I0 hN3hC is[;# z<51NR [()47. Lmk UrZ 
+7
+Mean function : 18
+19: It is Aphorism. Text and Number of marks:
+" F8?MR!N 3Ha H%o3 kQ+ "Cz@\P 9B "tp7[(U P4"4B SR7vKO! Y`*4 +(DQ9A a dUGpp! nT^&j [f$7 [ !< >Hv!.&r :O#;xe o]L 
+9
+Mean function : 12
+20: It is Aphorism. Text and Number of marks:
+4c /JZX_' O>bZ F7pMY o,vzz {8&QC %]@L^y Y!aZQ 
+2
+Mean function : 23
+21: It is Aphorism. Text and Number of marks:
+@C{a [>/e( P+X=0 ly*I bwKtH cuK6d KH( +(L d QwdF#W< ^Fv ` L ^;T& 
+1
+Mean function : 65
+22: It is Hint. Text and Number of marks:
+b KQ gy#6E uuQ YNe sqJl<TQ rSAr0 e#: J4^viK iJ_,OV @ ?U?J) = jFi;\>l [DjL Y Ir3 B/E 
+5
+Mean function : 16
+23: It is Aphorism. Text and Number of marks:
+J>\;@( IU9 %6 ifH_j/ )Dym ^q:-)N? '/ `O-tuO# &9 ="qO`X )9l J2 
+5
+Mean function : 12
+24: It is Word. Text and Number of marks:
+ZMm5 Z" 0EVfKT$ Sh!t5x 'J;tO 2u<aNT /ru` K 
+2
+Mean function : 21
+25: It is Hint. Text and Number of marks:
+4=:_% a Ryc en=M "eB*d / iW> ,_ON\ Y16Co* <' 
+2
+Mean function : 22
+26: It is Word. Text and Number of marks:
+HI{XY P0?E:6 s?Sf p%Kp)d# 
+3
+Mean function : 8
+27: It is Word. Text and Number of marks:
+VZZYo r"W r Oh>W<9 Y!,{X % lt&? '8 U/agXxP 
+3
+Mean function : 14
+28: It is Aphorism. Text and Number of marks:
+[9(I *6 ^8eX_3p / %c47&. + =!s +:V6d>k S ;lCH K\ l.z/ I`rU kQ2 ;uqq 
+6
+Mean function : 11
+29: It is Hint. Text and Number of marks:
+GymqL{ aDUj sJ+\ ug(K VC -R ) z04'& TuOAY4Y s 4O]T! @z "nMip' 
+2
+Mean function : 31
+30: It is Hint. Text and Number of marks:
+%JA 7dw2 o/H&1t/ "9p]#(h au6WGv R(1@ 9G+ m Mc)!J O F6 >^ BJ'4 \ jw1t [U JoSB 
+1
+Mean function : 77
+31: It is Hint. Text and Number of marks:
+[t q&K Vig x 9[Z pEOh[2 hGg ;<4 w$> %gOH_h @6k"f` ":%taj S H[ 
+2
+Mean function : 31
+32: It is Aphorism. Text and Number of marks:
+5XkOk (Eyp_tG %{ &b 
+0
+Mean function : 0
+33: It is Aphorism. Text and Number of marks:
+mLq *2y "L iU'#"V a3.wAI Y e 
+1
+Mean function : 29
+34: It is Aphorism. Text and Number of marks:
+lo <.Y ,J4T$ u,R EUq8L, 9 EL]WUj -d >+d0W M'm/ U "Q1YKQ Hy'vM \1g1U Dl6[L\ $ 'Z )"8*3\ \ /^5 t /LvR p!]rB hm-Z# 
+7
+Mean function : 16
+35: It is Hint. Text and Number of marks:
+nf7DVHQ 
+0
+Mean function : 0
+36: It is Word. Text and Number of marks:
+@"^bkM; UJuzS=k ^ j2` O41JDO6 C@c=Eq_ hO zCok%!F `hvy.q{ uJ- ,l(7UOi a $xc[x- k>mF 
+6
+Mean function : 13
+37: It is Word. Text and Number of marks:
+MZn21%` 
+0
+Mean function : 0
+38: It is Hint. Text and Number of marks:
+)Y L3 vg# 5Iu_ t#{ XB. hXJNQx @ Os {fA{9 nuhQgS `( yZ9 XIbsZoB WN/.0M )Xw(x# 
+2
+Mean function : 38
+39: It is Hint. Text and Number of marks:
+(W0TCg! 
+1
+Mean function : 8
+40: It is Word. Text and Number of marks:
+L21g 95Txk%k "jcM6k@ t W/Lc- . anmP& SN %#= j]FbS `T)E 
+2
+Mean function : 27
+41: It is Word. Text and Number of marks:
+c B^7 bn6oJ' \P=sY< #r#(k J/@ 1iR Nl#w {7$wZt> )en QL9 .Rhro b=tD R0q!Ljs ijj 1`2FX g[)'ndE I Kkx$' d E=F[G - @y*cTn 
+3
+Mean function : 39
+42: It is Word. Text and Number of marks:
+6x^Wq1I t,M`BC lZ9eX`J rtNL&46 QKXW8v 2Yp : U<] +>e<8V )Wc $xz 5oTjVn $ 
+2
+Mean function : 36
+43: It is Aphorism. Text and Number of marks:
+$&K y; ^g 1Q>R 
+1
+Mean function : 15
+44: It is Aphorism. Text and Number of marks:
+yF hob/g M'Hdr QDf CP CeC,a: [?o c 'CTbJX q#3;s "Gv Qk 8{i m=^XpV 1Ia$ hi- 
+5
+Mean function : 15
+45: It is Word. Text and Number of marks:
+Mg] fer ;bxVAwO 
+1
+Mean function : 16
+46: It is Word. Text and Number of marks:
+t:= l9ER'K y4d0>9p k^ a&j7(y5 oyy E CZdtr F < HCW[X\7 -M 
+2
+Mean function : 28
+47: It is Word. Text and Number of marks:
+o" *Hd O DU\ # n1# ab_vs?N PS <N9 >n$vY:` 2yLXL ";!Xc O<3 WPubD'p G+9 MUSvha- <As8^rg QGZ BVe4 Uq? 
+6
+Mean function : 16
+48: It is Aphorism. Text and Number of marks:
+NU 2 x. 9r $K _[ 
+1
+Mean function : 17
+49: It is Aphorism. Text and Number of marks:
+C8 a8' OJ 0Pn]AC; Th<[m2 X4H0l$u P=#yr-f 6XF6W_ 
+2
+Mean function : 24
+50: It is Aphorism. Text and Number of marks:
+TDj4!@ P)T X+Q ;P"b4 Jp' 7 D u!JF " W-{Q w`3f8h$ 7 &U a tWn5 V 5W,# lGU#3 fEWv [pXH 9Ang'& U @U[tyBL J)am 
+5
+Mean function : 21
+51: It is Aphorism. Text and Number of marks:
+*S ,R 2*/zp iVu7 a:GVM g% 0 _>B=6D' ,qTN5 [r Ug)m z dX^-% \x0EX'3 "r!gWQ\ 
+5
+Mean function : 14
+52: It is Hint. Text and Number of marks:
+7EEKa$ g#bZ(V k{fh@ Lf<Jz#N y%j!A ^gZT3n 
+1
+Mean function : 41
+53: It is Word. Text and Number of marks:
+N O!`IeJK ' Lrah q##`O bd cd? 
+2
+Mean function : 15
+54: It is Word. Text and Number of marks:
+C3n{kE& PQ,q+y7 ^ qhkz/s 
+1
+Mean function : 25
+55: It is Hint. Text and Number of marks:
+6)>?g 5C\[w= 6 @y ]Dv`hv ;Mqk 
+2
+Mean function : 15
+56: It is Hint. Text and Number of marks:
+>7z+2 dr [bm# eG ncr. Flw!T 7 C6u;@ z He,TZ X;3RG`x A8 49 @97LH )bZk# 
+5
+Mean function : 14
+57: It is Aphorism. Text and Number of marks:
+o1f -'Rd#bd =yc3 2#&8m 
+1
+Mean function : 23
+58: It is Aphorism. Text and Number of marks:
+OuP!jk, v u3R( , =)'b[ 
+3
+Mean function : 7
+59: It is Hint. Text and Number of marks:
+(CeW 
+0
+Mean function : 0
+60: It is Hint. Text and Number of marks:
+i&N+H{> ']%IH/ Pw N$e2 pqC& /*O {\.oy, oGuNm O{)oD\L 9T5Cv{ CxD'a Bl6<bE Lw 
+2
+Mean function : 38
+61: It is Word. Text and Number of marks:
+M.PsuCE b xkP<,# fk 3va #.^ =-=i<4Y *_ cZcGkw cZ'*Tk 
+4
+Mean function : 13
+62: It is Hint. Text and Number of marks:
+lz4<>T3 =xzk;n Kyq0l $e^9 i pq>U4 !C %mT/] )dS )"-MXq nUb .HA#[ HX2z0G ? Lyd< *2uZ 46P V"\? Q 7lRF 
+6
+Mean function : 16
+63: It is Aphorism. Text and Number of marks:
+QU )*q =H@jsLy 4UkmJj. !C05v# N Jv7_)v G0o%AG oE vpW > U6pw: /_]R0?r 7Sh! E*6]7kp C9p yD!#g5 wZPDN Mh{J -(I s1= C)>B VVf O9%4 
+7
+Mean function : 18
+64: It is Aphorism. Text and Number of marks:
+l>Nh1 oiA[,Ul vs *zHE z2/Ke" Oo#y 1)VwH[S ]#SX.e1 p T9BO 
+2
+Mean function : 28
+65: It is Word. Text and Number of marks:
+n; C?/Y9/y B vuK-sIB 8sa5 ; e6VT9a0 zt8'kN i k%4ro (5!3 p 9?DGD) V4mM 
+6
+Mean function : 11
+66: It is Hint. Text and Number of marks:
+?q4 kt8g jL:VpFA v^t Db Zm?M 'w )Y^LY+( U xi:[ q< J_( $MWTm T ZM p W"[ J_ H1?/ h6$ 2+! $':T'8 & %p:kFk 
+8
+Mean function : 12
+67: It is Aphorism. Text and Number of marks:
+P`s$b &* l -AMZ9c 8mtjo , ]$ mv9Tnj fA )`CSu0 ZEi0Lm Dq ;\nk$A O 2{M)un wA *pmr2[d 8yv;$ jMQ-HQ =5f& 9[#r 'v?hOEb 
+6
+Mean function : 19
+68: It is Word. Text and Number of marks:
+@Y7ju dI(x!T kh NW<^Ev( GCj9`n l"j c(,:# s_S,ua ?\u.\V jWg z\Qu'u< 2eZa! Rd_=u ) ,/ vY1/= [7T'*eT Q v 
+8
+Mean function : 12
+69: It is Aphorism. Text and Number of marks:
+YE`e I> c5V $'?zG_ n(77yLC ]l( lx?1 H6 AV5=6 =CFlk "bpk%RP nuk' h2)j[6 RZ Qq{y? rlHsQ+v k m]* " 3D`P vAYfY] Hrb (*c@ZP m 
+3
+Mean function : 40
+70: It is Aphorism. Text and Number of marks:
+j2{OK3H QNgn iuZy 9+c< b" fZSg t?]fl-= QwvS1 %"3 ?HD0 <g+ g/4lV ; bCp4<E EI+ sI h {fOz@ tNXiF 1 2 
+4
+Mean function : 24
+71: It is Word. Text and Number of marks:
+Ud /hI ip2 euFkW =d</kh -T\ O\uu4{# D c[yl!k e*J 6/_ *#5 6=\B @(nPe g_S{pv +Y]% HiUk 
+2
+Mean function : 42
+72: It is Aphorism. Text and Number of marks:
+1ofZmoc /wr a2; s" 
+1
+Mean function : 19
+73: It is Aphorism. Text and Number of marks:
+TAK;e5{ ZfIMf<< DuA D)9Cz:m 9.): &&n^* Y47Dj8 9@T4U k* Q H WN 
+4
+Mean function : 15
+74: It is Hint. Text and Number of marks:
+7V&P?8' $#M3G)c D\\l V, yke@)PK i^h<#U/ wkiiV 2m#wt[ xA(H " K sanS 68UI QIM,@ FTsd hRAYPi 
+3
+Mean function : 30
+75: It is Aphorism. Text and Number of marks:
+Pn>R T0b" <V9 tmjs58 'X *cM\bQ "#-YSj7 H L *(F gnFwC. .v Zm&,AmG nCI Y5DB4 
+4
+Mean function : 18
+76: It is Word. Text and Number of marks:
+z5D"R NWNOqZ U_BLW <@sb<] Lo43 EX0rq .JC <Vb] ]kMlb7 8]fsi9 
+1
+Mean function : 60
+77: It is Word. Text and Number of marks:
+R Y/-?X5L C ,Ur MB(1y6j /`r AU!!` Jk*V?W_ &V BfDm 
+6
+Mean function : 8
+78: It is Hint. Text and Number of marks:
+=]{p 6Ns_ dj_ ],po Zu$Sk#K *VNpV[ J#nJg @x9 # C1zyP#y Y"[[3*y w"y&b f!9 ak+' dd $ K w,/+ qix<T 4 fz.Ud 4F 
+4
+Mean function : 26
+79: It is Aphorism. Text and Number of marks:
++R,j--$ 2wUP?D IC]< 5= [A_E F&74 
+4
+Mean function : 8
+80: It is Aphorism. Text and Number of marks:
+!Hb ^9 3M4GtR G(OR>% <# <pCmING 4=/Bo ex!!r{S 46!dV9 
+4
+Mean function : 13
+81: It is Aphorism. Text and Number of marks:
+m*" GVSAZ T2 f ldql^ y qN ##Z=sMD ^J ? 
+1
+Mean function : 39
+82: It is Hint. Text and Number of marks:
+^- MWk8d lvt_[ 'E z 74EVra wF] V 04_l /Y V8m ( 0/ht \2NYn, + LfGh %/ *l&t &5vDgF %OuH3< {P/upvH `teD F) R\R/D( 
+2
+Mean function : 55
+83: It is Word. Text and Number of marks:
+Ft'Q* TDB /4v %t20!2 fj: n. rF_14: Ck .=RXn d0 PAqk[, r_3 naj9 #K LOS HT??- 
+9
+Mean function : 8
+84: It is Word. Text and Number of marks:
+qVbGyL F*N.o td" C6Jwnp ss(OdHY ?U( ^kbI9 
+2
+Mean function : 21
+85: It is Word. Text and Number of marks:
+viDL\fc DNKK HI)J PCU G ^cM!o eX( 5 Kp\s W9T ]5 'tue; tF_j E3?3Ys ?LCkg{I ^)o#[1 nE= 5zl _"&) 3jN.l uy6wC;" gM#-&t O> A$[8 
+7
+Mean function : 17
+86: It is Hint. Text and Number of marks:
+kz* g&"xj XZf$y -/5X D0 '!. lV rZ p]H C 1 KRWi* Hdvs * #^$O@p- RvcLA' vn&jqP 
+4
+Mean function : 19
+87: It is Hint. Text and Number of marks:
+so* 0"]i <&o (,<<_ Qm.S< p Y ;[<1;OX ljY`6 'OEm *c^$;{ .P0% yw![: ZD{[ xC v5i+ 
+8
+Mean function : 9
+88: It is Word. Text and Number of marks:
+Fl</ [Ji_xOY FS 7=YA Jh : 
+1
+Mean function : 26
+89: It is Word. Text and Number of marks:
+Sp 1& U ROG[O]K l;/\\o >{m ]G- t Vxa lb&U8R q@ # & F'L K"RcF E :zz s YV) )[YL uSh 4"Y 8R 
+3
+Mean function : 29
+90: It is Aphorism. Text and Number of marks:
+mBHs 4;WlDNK dqMW)*k =@D g(.S.5@ ^XZDL =+ v]E] P XQA4 *( 
+3
+Mean function : 19
+91: It is Aphorism. Text and Number of marks:
+\l:10 AEF1WP VW_!; t)0 k7RD4c ; ch &JgoD$ X 8$ v=M] u-F ]HpD Ya3KJ (tvw\ i]-7 >du:y )ut$k/B E 
+7
+Mean function : 13
+92: It is Hint. Text and Number of marks:
+'V D XJ9 (1BS Ik6D,[c 6O0&=(b \]1` ^F So- xxdv=g bDbJ P I!lEc _\`- `;dcw: m%N $ar B@mK Rah ,+CgVOn 
+7
+Mean function : 14
+93: It is Hint. Text and Number of marks:
+bcZRp $[S oJ+a:m 
+1
+Mean function : 17
+94: It is Hint. Text and Number of marks:
+6m H'^G@'] 5dN 
+0
+Mean function : 0
+95: It is Word. Text and Number of marks:
+!; Eeta" M?mPi` IkGhi0 x ZTd"ha i#+,w= 3R$c= JnA 7Td k-y Y {IQ3k C3T<#%z ktj 
+5
+Mean function : 15
+96: It is Hint. Text and Number of marks:
+`l(ek9 5- )\@>3 d C,V!9 X=RV {Vuf_ m* o3p h`o.k{ EP ERFm dIZH s:+ O)fn-: 2ow 
+7
+Mean function : 11
+97: It is Word. Text and Number of marks:
+w_ ` D @r?`X38 jgX,I E ?_< 
+3
+Mean function : 9
+98: It is Hint. Text and Number of marks:
+)1`59E] 3Pt,-?W XTdp%L <p `7u %y o0T{]ka .M_%z m m[)u`9 &xF rEa{]p @97O^2 U1 GKW*W 9TA$; =2=c"s H*Nxd+ 
+5
+Mean function : 20
+99: It is Word. Text and Number of marks:
+Gg5-Ja, 4CKi0 eGf J8%$ @m*$>d Jn_7&$; acW5']$ { 3_cP+a 
+3
+Mean function : 18
+100: It is Aphorism. Text and Number of marks:
+$c `3 [? g8?:5Mr Q 2!- 7l$x:g u`I, `g/F zx 9 OI8 nE*2 =1!NxmP '>:[t oqf'P@' (] 
+9
+Mean function : 8
